@@ -9,7 +9,10 @@ h1{
 }
 
 section{
-	display:grid;
-	grid-template-columns: 2.5fr 3fr 2.5fr 2.5fr 2.5fr;
+	display:flex;
+
 	
+}
+main>h2{
+	text-align:center;
 }
